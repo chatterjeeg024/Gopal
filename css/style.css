@@ -122,6 +122,8 @@
      padding: 12px 40px;
      font-size: 16px;
 }
+.two::first-letter
+{-webkit-initial-letter:2; initial-letter:2;}
  .lead {
      font-size: 18px;
      line-height: 30px;
